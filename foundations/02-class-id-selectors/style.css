@@ -1,0 +1,21 @@
+/* styles.css */
+
+.odd {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+  }
+
+#cooler {
+    color: blue;
+    font-size: 36px;
+}
+
+#another {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#unique {
+    font-size: 24px;
+}
